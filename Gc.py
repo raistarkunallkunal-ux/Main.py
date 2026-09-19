@@ -3,7 +3,7 @@ import requests, json, os, time, random, threading, websocket, re, base64, queue
 OWNER_ID = "1546451034392502323"
 
 TOKENS = [
-   "MTU1MDczOTE5Njg4NzU2ODQxNA.GF8y_S.eayEJ0n8NvhkVOsvGi2jk9_9g_mREAqNuZJnBw",
+   "MTUyMzMxNTQ2OTA1MjkzNjM4NA.GRboMb.6WHlqRl6MDUGcreow11kQLCffjsEM18Q5crUs8",
    "MTUyMzcxMzkxNzExMTc2Mjk4MQ.GwbAyN.NlYWqOvSZ91rpRZ4WE2moTcIwyMM-wU-5LnYps",
    "MTU1MDc1NDAwNDI1MzAxNjE3NQ.GPLAuu.7dDIRs6RDyuRsMib5Y7Zo658RI1xhr9NLJHtjo",
    "MTU0NjgxOTk3MjM1NjExMjQxOA.G7dCaD.yObI3Jw6DxWGjENQ7kXPJgw38ZukP",
